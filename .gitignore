@@ -1,0 +1,5 @@
+/update/node_modules
+/update/.DS_*
+/update/*.log
+/update/**/*.backup.*
+/update/**/*.back.*
